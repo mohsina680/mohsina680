@@ -1,6 +1,6 @@
 # 📊 Hi there, I'm Muhammad Mohsin Aleem! 👋  
 
-![Data Science Banner](https://github.com/mohsina680/mohsinaleema680/blob/main/datac.jpeg)
+![Data Science Banner](https://github.com/mohsina680/mohsinaleema680/blob/main/datasceince%20banner.jpg)
 
 ---
 
